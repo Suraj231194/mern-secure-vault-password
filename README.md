@@ -1,4 +1,4 @@
-# SecureVault - Production-Grade MERN Password Manager 🛡️
+# MERN Secure Vault Password 🛡️
 
 ![SecureVault Banner](https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200&auto=format&fit=crop)
 
